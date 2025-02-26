@@ -1,0 +1,27 @@
+{
+  "name": "trabalho_faculdade2",
+  "version": "1.0.0",
+  "description": "Backend da API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neuritos/trabalho_faculdade2.git"
+  },
+  "keywords": [
+    "API",
+    "Backend",
+    "MVC",
+    "REST"
+  ],
+  "author": "Gustavo Silva de Deus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neuritos/trabalho_faculdade2/issues"
+  },
+  "homepage": "https://github.com/Neuritos/trabalho_faculdade2#readme"
+}
